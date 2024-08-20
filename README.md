@@ -46,7 +46,7 @@ _Projects are somewhat ordered by increasing difficulty._
 - [Compare Recent reddit Karma](#Compare-Recent-reddit-Karma)
 - [Watch for New TIL Facts](#Watch-for-New-TIL-Facts)
 - [Random Wikipedia Article](#Random-Wikipedia-Article)
-- [What's the Weather?](#What-the-Weather)
+- [What's the Weather?](#Whats-the-Weather)
 - [Sierpinski Triangle](#Sierpinski-Triangle)
 - [Two Numbers](#Two-Numbers)
 - [Chickens and Rabbits](#Chickens-and-Rabbits)
